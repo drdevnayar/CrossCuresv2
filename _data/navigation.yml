@@ -16,7 +16,7 @@ en: &DEFAULT_EN
     - title: "Portfolio"
       section: portfolio
     - title: "Use case"
-      section: Uses
+      section: portfolio
     - title: "Timeline"
       section: timeline
     - title: "Team"
