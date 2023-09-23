@@ -11,15 +11,15 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: Welcome to our Studio!
-    text: It's Nice To Meet You
-    button: Tell Me More
-    buttonlink: "#services"
+    title: Welcome to the Future of Healthcare
+    text: CrossCures
+    button: Our Uses
+    buttonlink: "#Uses"
 
   services:
-    title: "Services"
-    text: "Lorem ipsum"
-    section: services
+    title: "The Product"
+    text: "What are we ?"
+    section: Product
     list:
       - title: "E-Commerce"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
@@ -32,9 +32,9 @@ en: &DEFAULT_EN
         icon: fab fa-markdown
 
   portfolio:
-    title: "Portfolio"
-    text: "Lorem ipsum dolor sit amet consectetur."
-    section: portfolio
+    title: "Use case"
+    text: "Our ongoing projects"
+    section: Uses
     closebutton: "Close Project"
 
   timeline:
