@@ -13,8 +13,8 @@ en: &DEFAULT_EN
   header:
     title: Welcome to the Future of Healthcare
     text: CrossCures
-    button: portfolio
-    buttonlink: "Features"
+    button: Features
+    buttonlink: "#portfolio"
 
   services:
     title: "The Product"
