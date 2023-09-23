@@ -16,7 +16,7 @@ en: &DEFAULT_EN
     button: Our Uses
     buttonlink: "#Uses"
 
-  services:
+  Product:
     title: "The Product"
     text: "What are we ?"
     section: Product
@@ -31,7 +31,7 @@ en: &DEFAULT_EN
         desc: "Your description here, full **Markdown** support"
         icon: fab fa-markdown
 
-  portfolio:
+  Uses:
     title: "Use case"
     text: "Our ongoing projects"
     section: Uses
@@ -93,40 +93,28 @@ en: &DEFAULT_EN
         logo: assets/img/clients/creative-market.jpg
 
   team:
-    title: "OUR AMAZING TEAM"
+    title: "The Team"
     text: "Lorem ipsum dolor sit amet consectetur."
     subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
     section: team
     people:
-      - name: "Kay Garland"
-        role: "Lead Designer"
+      - name: "Kapil Dev Nayar"
+        role: "Co-Founder"
         image: assets/img/team/500x500.jpg
         social:
-          - url: https://twitter.com
+          - url: https://twitter.com/dr_nayar_98
             icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
+          - url: https://www.linkedin.com/in/kapil-dev-nayar/
             icon: fab fa-linkedin-in
-      - name: "Larry Parker"
-        role: "Lead Marketer"
+      - name: "Shaurjya Mandal"
+        role: "CTO"
         image: assets/img/team/2.jpg
         social:
           - url: https://twitter.com
             icon: fab fa-twitter
           - url: https://facebook.com
             icon: fab fa-facebook-f
-          - url: https://linkedin.com
-            icon: fab fa-linkedin-in
-      - name: "Diana Perterson"
-        role: "Lead Developer"
-        image: assets/img/team/500x500.jpg
-        social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
+          - url: https://www.linkedin.com/in/shaurjya-mandal-524ab6193/
             icon: fab fa-linkedin-in
 
   contact:
