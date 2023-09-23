@@ -16,7 +16,7 @@ en: &DEFAULT_EN
     button: Our Uses
     buttonlink: "#Uses"
 
-  Product:
+  Services:
     title: "The Product"
     text: "What are we ?"
     section: Product
@@ -31,7 +31,7 @@ en: &DEFAULT_EN
         desc: "Your description here, full **Markdown** support"
         icon: fab fa-markdown
 
-  Uses:
+  Projects:
     title: "Use case"
     text: "Our ongoing projects"
     section: Uses
