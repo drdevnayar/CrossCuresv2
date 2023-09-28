@@ -46,13 +46,12 @@ en: &DEFAULT_EN
     events:
       - title: "Our Humble Beginnings"
         year: "2022"
-        desc: "We meet during a hackathon and come up with this problem statement. our work on the early prototypes ends up winning first place in the Hack4XDP 2021"
+        desc: "We meet during a hackathon and discover that we really want to work on solving the problem of subjectivity during neurological examinations. We work on solving this problem using open-source pose determination agorithms, but this gives us very poor accuracy. This marks the beggining of our journey, we end up improving over the current freely availilbe pose estimation alogrithms over the two-month duration of the Hackathon. Our project ends up winning first place in the Hack4XDP 2021 hackathon"
         image: assets/img/timeline/1.jpg
         alt:
       - title: "2022-2023"
         year: "December 2022"
-        desc: "After several iterations and talks with leading neurologists from institutes such as Mass General, UPMC and Mayo Clinic, We finally come up with the first iteration of the custom algorithm which we named after our winning Hackathon project, XDP-GAIT, that is now being used in CrossCures"
-        image: assets/img/timeline/2.jpg
+        desc: "After several iterations, our accuracy is still very low. We decide to pivot from the concepts behind current pose-detection algorithms and redo the entire project from scratch. We focus on using our experience to build an AI-algorithm specifically suited to our needs. To finetune our algorithm we connect with leading neurologists from institutes such as Mass General, UPMC and Mayo Clinic. We finally come up with the first iteration of our custom algorithm which we named after our winning Hackathon project, XDP-GAIT. This algorithm uses a radically different approach that hasnt been used before."
         alt:
       - title: "Testing at Mass General"
         year: "June, 2023"
