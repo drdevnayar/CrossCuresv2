@@ -99,7 +99,7 @@ en: &DEFAULT_EN
     people:
       - name: "Kapil Dev Nayar"
         role: "Co-Founder/Early test subject"
-        image: assets/img/team/post.png
+        image: assets/img/team/kapil1.png
         social:
           - url: https://twitter.com/dr_nayar_98
             icon: fab fa-twitter
@@ -107,7 +107,7 @@ en: &DEFAULT_EN
             icon: fab fa-linkedin-in
       - name: "Shaurjya Mandal"
         role: "Co-Founder/womanizer"
-        image: assets/img/team/shaurjya pic.jpg
+        image: assets/img/team/shaurjya2.jpg
         social:
           - url: https://twitter.com
             icon: fab fa-twitter
