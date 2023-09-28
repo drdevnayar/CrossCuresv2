@@ -49,18 +49,18 @@ en: &DEFAULT_EN
         desc: "We meet during a hackathon and discover that we really want to work on solving the problem of subjectivity during neurological examinations. We work on solving this problem using open-source pose determination agorithms, but this gives us very poor accuracy. This marks the beggining of our journey, we end up improving over the current freely availilbe pose estimation alogrithms over the two-month duration of the Hackathon. Our project ends up winning first place in the Hack4XDP 2021 hackathon"
         image: assets/img/timeline/1.jpg
         alt:
-      - title: "2022-2023"
-        year: "December 2022"
-        desc: "After several iterations, our accuracy is still very low. We decide to pivot from the concepts behind current pose-detection algorithms and redo the entire project from scratch. We focus on using our experience to build an AI-algorithm specifically suited to our needs. To finetune our algorithm we connect with leading neurologists from institutes such as Mass General, UPMC and Mayo Clinic. We finally come up with the first iteration of our custom algorithm which we named after our winning Hackathon project, XDP-GAIT. This algorithm uses a radically different approach that hasnt been used before."
+      - title: "Rebuiding our concept"
+        year: "2022-2023"
+        desc: "After several iterations, our accuracy is still very low. We decide to pivot from the concepts behind current pose-detection algorithms and redo the entire project from scratch. We focus on using our experience to build an AI-algorithm specifically suited to our needs. To finetune our algorithm we connect with leading neurologists from institutes such as Mass General, UPMC and Mayo Clinic. We finally come up with the first iteration of our custom algorithm which we named after our winning Hackathon project, XDP-GAIT. This algorithm uses a radically different approach that has never been used before."
         alt:
       - title: "Testing at Mass General"
         year: "June, 2023"
-        desc: "The two Co-foudners, Kapil and Shaurjya get invited to the movement disorder laborotary to test out thier algorithm on real patients"
+        desc: "The two Co-foudners, Kapil and Shaurjya get invited to the movement disorder laborotary to test out and reiterate thier algorithm on real patients. Over 2 motnhs of constant failures, new innovations and rapid prototyping we managed to improve our algorithm significantly."
         image: assets/img/timeline/3.jpg
         alt: image alt text
-      - title: "Title"
-        year: "September 2023"
-        desc: "The model performs exceptionally well in these preliminary tests, achieving an accuracy of upto 95%. And as such, the fifth iteration of out algorithm, CrossCures is officially born"
+      - title: "CrossCures is born"
+        year: "August 2023"
+        desc: "The model performs exceptionally well in these preliminary tests, achieving an accuracy of upto 95%. Even the most severly affected patients are getting handled with ease. With this, the 7th iteration of XDP-GAIT is now renamed to CrossCures as we officially begin our journey. "
         image: assets/img/timeline/4.jpg
         alt:
         # you can enforce the alignment
