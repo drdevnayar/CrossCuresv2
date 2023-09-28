@@ -17,18 +17,18 @@ en: &DEFAULT_EN
     buttonlink: "#portfolio"
 
   services:
-    title: "The Product"
-    text: "What are we ?"
+    title: "What we do"
+    text: "The Process"
     section: services
     list:
-      - title: "Video processing"
-        desc: "We conver VIdeo files to 3-D animations"
+      - title: "Video Processing"
+        desc: "We convert VIdeo files into 1:1 3-D models using our custom-built novel AI algorithm"
         icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
-      - title: "Analytics assessment"
-        desc: "We pull data from that 3-D animation and output graphs along with relevant timestamps"
+      - title: "Analytics Assessment"
+        desc: "We pull data from our 3-D models and calculate the grading according to various scales such as TWSTRS-2, UPDRS and BFM. we also show graphs of the asociated movements in 3-D space time along with relevant timestamps"
         icon: fas fa-laptop
-      - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
-        desc: "Your description here, full **Markdown** support"
+      - title: "Outcome Prediction"
+        desc: "We apply further algorithms which can quantify the probabilities of outcomes post treatment"
         icon: fab fa-markdown
 
   portfolio:
@@ -100,14 +100,14 @@ en: &DEFAULT_EN
     people:
       - name: "Kapil Dev Nayar"
         role: "Co-Founder"
-        image: assets/img/team/500x500.jpg
+        image: assets/img/team/post.png
         social:
           - url: https://twitter.com/dr_nayar_98
             icon: fab fa-twitter
           - url: https://www.linkedin.com/in/kapil-dev-nayar/
             icon: fab fa-linkedin-in
       - name: "Shaurjya Mandal"
-        role: "CTO"
+        role: "Co-Founder"
         image: assets/img/team/2.jpg
         social:
           - url: https://twitter.com
