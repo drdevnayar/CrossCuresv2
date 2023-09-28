@@ -32,7 +32,7 @@ en: &DEFAULT_EN
         icon: fab fa-markdown
 
   portfolio:
-    title: "Use case"
+    title: "Use cases"
     text: "Our ongoing projects"
     section: portfolio
     closebutton: "Close Project"
@@ -45,23 +45,23 @@ en: &DEFAULT_EN
     #start_align: "left"
     events:
       - title: "Our Humble Beginnings"
-        year: "2009-2011"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
+        year: "2022"
+        desc: "We meet during a hackathon and come up with this problem statement. our work on the early prototypes ends up winning first place in the Hack4XDP 2021"
         image: assets/img/timeline/1.jpg
         alt:
-      - title: "An Agency is Born"
-        year: "March 2011"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
+      - title: "2022-2023"
+        year: "December 2022"
+        desc: "After several iterations and talks with leading neurologists from institutes such as Mass General, UPMC and Mayo Clinic, We finally come up with the first iteration of the custom algorithm which we named after our winning Hackathon project, XDP-GAIT, that is now being used in CrossCures"
         image: assets/img/timeline/2.jpg
         alt:
-      - title: "Jekyll Theme is created"
-        year: "2019"
-        desc: "Ravi Riley converted Agency, a Bootstrap-based theme, into a Jekyll theme. The Jekyll theme can be installed as a Ruby gem, or remotely. For more information, visit the documentation."
+      - title: "Testing at Mass General"
+        year: "June, 2023"
+        desc: "The two Co-foudners, Kapil and Shaurjya get invited to the movement disorder laborotary to test out thier algorithm on real patients"
         image: assets/img/timeline/3.jpg
         alt: image alt text
       - title: "Title"
-        year: "2009-2011"
-        desc: "Your description here, **Markdown** is fully supported."
+        year: "September 2023"
+        desc: "The model performs exceptionally well in these preliminary tests, achieving an accuracy of upto 95%. And as such, the fifth iteration of out algorithm, CrossCures is officially born"
         image: assets/img/timeline/4.jpg
         alt:
         # you can enforce the alignment
@@ -99,7 +99,7 @@ en: &DEFAULT_EN
     section: team
     people:
       - name: "Kapil Dev Nayar"
-        role: "Co-Founder"
+        role: "Co-Founder/Early test subject"
         image: assets/img/team/post.png
         social:
           - url: https://twitter.com/dr_nayar_98
@@ -107,8 +107,8 @@ en: &DEFAULT_EN
           - url: https://www.linkedin.com/in/kapil-dev-nayar/
             icon: fab fa-linkedin-in
       - name: "Shaurjya Mandal"
-        role: "Co-Founder"
-        image: assets/img/team/2.jpg
+        role: "Co-Founder/womanizer"
+        image: assets/img/team/shaurjya pic.jpg
         social:
           - url: https://twitter.com
             icon: fab fa-twitter
