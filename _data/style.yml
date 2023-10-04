@@ -4,5 +4,5 @@ highlight: "#007f3d"
 #black: "#000"
 
 #Image Customization
-header-image: "../img/crosscures-header.jpg"
+header-image: "assets/img/CrossCures Header BG.jpg"
 contact-image: "../img/map-image.png"
