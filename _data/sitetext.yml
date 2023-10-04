@@ -23,7 +23,7 @@ en: &DEFAULT_EN
     list:
       - title: "Video Processing"
         desc: "We convert video files into 1:1 3-D models using our custom-built novel AI algorithm."
-        icon: fas fa-video 
+        icon: fas fa-bar-chart
       - title: "Analytics Assessment"
         desc: "We pull data from our 3-D models and calculate the grading using various scales such as TWSTRS-2, UPDRS and BFM. Additionally, we graph the associated movements in 3-D spacetime with relevant timestamps."
         icon: fas fa-laptop
