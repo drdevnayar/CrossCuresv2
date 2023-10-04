@@ -23,7 +23,7 @@ description: "Pose determination using video"
 author     : kapil dev nayar
 logo:     
    path: assets\img\clients\Logo+Text (White Horizontal) [Final].svg
-   height: 60
+   height: 50
 
 locale: "en-US" # See available languages in _data/sitetext.yml
 
