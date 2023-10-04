@@ -22,7 +22,7 @@ email      : your-email@example.com #this is also the email contact forms will g
 description: "Pose determination using video"
 author     : kapil dev nayar
 logo:     
-   path: assets\img\clients\Logo+Text (White Horizontal) [Final].svg
+   path: assets\img\clients\crosscures-logo.svg
    height: 50
 
 locale: "en-US" # See available languages in _data/sitetext.yml
