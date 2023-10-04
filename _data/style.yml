@@ -4,5 +4,5 @@ highlight: "#013220"
 #black: "#000"
 
 #Image Customization
-header-image: "../img/header-bg.jpg"
+header-image: "assets/img/Header BG.png"
 contact-image: "../img/map-image.png"
