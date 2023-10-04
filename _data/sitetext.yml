@@ -152,5 +152,3 @@ en-GB:
   <<: *DEFAULT_EN
 en-AU:
   <<: *DEFAULT_EN
-es-CO:
-  <<: *DEFAULT_ES
