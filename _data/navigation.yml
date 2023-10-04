@@ -11,15 +11,15 @@
 # -----------------
 en: &DEFAULT_EN
   nav:
-    - title: "WHAT WE DO"
+    - title: "THE PROCESS"
       section: services
-    - title: "USE CASES"
+    - title: "PROJECTS"
       section: portfolio
     - title: "ABOUT US"
       section: about
     - title: "TIMELINE"
       section: timeline
-    - title: "THE TEAM"
+    - title: "TEAM"
       section: team
     - title: "CONTACT"
       section: contact
