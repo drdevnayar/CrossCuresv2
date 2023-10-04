@@ -26,10 +26,10 @@ en: &DEFAULT_EN
         icon: fas fa-video
       - title: "Analytics Assessment"
         desc: "We pull data from our 3-D models and calculate the grading using various scales such as TWSTRS-2, UPDRS and BFM. Additionally, we graph the associated movements in 3-D spacetime with relevant timestamps."
-        icon: fas fa-cube
+        icon: fas fa-chart-bar
       - title: "Outcome Prediction"
         desc: "We further apply algorithms which can quantify the probabilities of outcomes post-treatment"
-        icon: fas fa-chart-bar
+        icon: fas fa-project-diagram
 
   portfolio:
     title: "Use Cases"
