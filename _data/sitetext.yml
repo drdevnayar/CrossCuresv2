@@ -29,7 +29,7 @@ en: &DEFAULT_EN
         icon: fas fa-laptop
       - title: "Outcome Prediction"
         desc: "We further apply algorithms which can quantify the probabilities of outcomes post-treatment"
-        icon: fas fa-bar-chart
+        icon: fas fa-magnifying-glass-chart
 
   portfolio:
     title: "Use Cases"
