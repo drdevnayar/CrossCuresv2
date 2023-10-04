@@ -29,7 +29,7 @@ en: &DEFAULT_EN
         icon: fas fa-cube
       - title: "Outcome Prediction"
         desc: "We further apply algorithms which can quantify the probabilities of outcomes post-treatment"
-        icon: fas fa-magnifying-glass-chart
+        icon: fas fa-chart-column
 
   portfolio:
     title: "Use Cases"
