@@ -1,18 +1,17 @@
 ---
-title: Project Threads
-subtitle: subtitle lorem ipsum dolor sit amet consectetur.
+title: Project XC
+subtitle: 
 image: assets/img/portfolio/01-full.jpg
 alt: Shirts on a hanger
 
 caption:
-  title: Threads
-  subtitle: Illustration
+  title: 
+  subtitle: End-to-end tool
   thumbnail: assets/img/portfolio/01-thumbnail.jpg
 ---
-Use this area to describe your project. **Markdown** supported. This entry (project1.md) uses links for the image sources. All other projects in the portfolio use local images. Both work just fine! Lorem ipsum dolor sit amet, consectetur adipisicing elit. 
+Our first product, CrossCures XC is an end-to-end tool based on a novel AI algorithm that objectivey evaluates the severity of neck dystonia using TWSTRS2 for patients who have neck dystonia. This is espeically useful in home monitoring of dystonia and to accurately track and record neck dystonia for the purpose of precision medicine. This can aso be used when patients are trasferring between different clinicians and to track treatment response - especially when it comes to botox. White paper for the algorithm used here - coming soon
 
 {:.list-inline}
-- Date: January 2017
-- Client: Threads
-- Category: Illustration
+- Date: August 2023
+- Category: Tool V1
 
