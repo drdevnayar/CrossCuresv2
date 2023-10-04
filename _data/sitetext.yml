@@ -46,7 +46,7 @@ en: &DEFAULT_EN
     events:
       - title: "Our Humble Beginnings"
         year: "2022"
-        desc: "We initially met during a hackathon and realized our shared passion for addressing the issue of subjectivity in neurological examinations. Our approach involved utilizing open-source pose determination algorithms, but the initial results yielded poor accuracy. This marked the beginning of our journey, during which we dedicated two months to enhancing the existing freely available pose estimation algorithms. Our efforts paid off, as our project ultimately earned us first place in the Hack4XDP 2021 hackathon."
+        desc: "We initially met during a hackathon and realized our shared passion for addressing the issue of subjectivity in neurological examinations. Our approach involved utilizing open-source pose determination algorithms, but the initial results yielded poor accuracy. This marked the beginning of our journey, during which we dedicated two months to enhancing the existing freely available pose estimation algorithms. Our efforts paid off, as our project ultimately earned us first place in the Hack For XDP 2022 hackathon."
         image: assets/img/timeline/1.jpg
         alt:
       - title: "Rebuiding Our Concept"
