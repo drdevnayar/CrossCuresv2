@@ -11,17 +11,17 @@
 # -----------------
 en: &DEFAULT_EN
   nav:
-    - title: "The Product"
+    - title: "WHAT WE DO"
       section: services
-    - title: "Features"
+    - title: "USE CASES"
       section: portfolio
-    - title: "About us"
+    - title: "ABOUT US"
       section: about
-    - title: "Timeline"
+    - title: "TIMELINE"
       section: timeline
-    - title: "Team"
+    - title: "THE TEAM"
       section: team
-    - title: "Contact"
+    - title: "CONTACT"
       section: contact
 en-US:
   <<: *DEFAULT_EN
