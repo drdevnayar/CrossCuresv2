@@ -39,7 +39,7 @@ en: &DEFAULT_EN
 
   timeline:
     title: "Timeline"
-    text: "Lorem ipsum timeline"
+    text: "The Development of CrossCures"
     section: timeline
     # left is the default
     #start_align: "left"
@@ -58,7 +58,7 @@ en: &DEFAULT_EN
         year: "June 2023"
         desc: "As co-founders, we were invited to the Movement Disorder Laboratory at Mass General to evaluate and reiterate our algorithm using data from real patients. After two months of continuous failures, novel innovations and rapid prototyping, we successfully achieved significant improvements in our algorithm."
         image: assets/img/timeline/CrossCures Timeline 3.jpg
-        alt: image alt text
+        alt:
       - title: "CrossCures Is Born"
         year: "August 2023"
         desc: "The model performed exceptionally well in these preliminary tests, achieving an accuracy rate of up to 95%. It demonstrated remarkable ease in handling even the most severely affected patients. With this, the 7th iteration of XDP-GAIT is now renamed to CrossCures as we officially begin our journey."
@@ -66,7 +66,7 @@ en: &DEFAULT_EN
         alt:
         # you can enforce the alignment
         align: right
-    end: "Be Part <br> of Our <br> Story!"
+    end: "Be Part <br> of <br> Our Story!"
 
   about:
     title: "About Us"
