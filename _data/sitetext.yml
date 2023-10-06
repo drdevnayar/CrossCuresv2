@@ -66,7 +66,7 @@ en: &DEFAULT_EN
         alt:
         # you can enforce the alignment
         align: right
-    end: "Be Part <br> of <br> Our Story!"
+    end: "Be Part of <br> Our Story!"
 
   about:
     title: "About Us"
