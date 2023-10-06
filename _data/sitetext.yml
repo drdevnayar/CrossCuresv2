@@ -52,6 +52,7 @@ en: &DEFAULT_EN
       - title: "Rebuilding Our Concept"
         year: "2022 - 2023"
         desc: "After several iterations, our project's accuracy remained persistently low. As a result, we pivoted away from the established concepts underpinning current pose-detection algorithms and redid the entire project from scratch. We focused on using our expertise to build a bespoke AI algorithm tailored specifically to our needs. To fine-tune our algorithm, we connected with leading neurologists from institutes such as Mass General, UPMC and Mayo Clinic. We finally came up with the first iteration of our custom algorithm, which we named after our winning Hackathon project: XDP-GAIT. This algorithm used a radically different approach that had never previously been explored."
+        image: assets/img/timeline/CrossCures Timeline 2.jpg
         alt:
       - title: "Testing at Mass General"
         year: "June 2023"
