@@ -62,7 +62,7 @@ en: &DEFAULT_EN
       - title: "CrossCures Is Born"
         year: "August 2023"
         desc: "The model performed exceptionally well in these preliminary tests, achieving an accuracy rate of up to 95%. It demonstrated remarkable ease in handling even the most severely affected patients. With this, the 7th iteration of XDP-GAIT is now renamed to CrossCures as we officially begin our journey."
-        image: assets/img/timeline/4.jpg
+        image: assets/img/timeline/CrossCures Timeline 4.jpg
         alt:
         # you can enforce the alignment
         align: right
