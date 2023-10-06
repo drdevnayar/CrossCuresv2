@@ -15,7 +15,7 @@
 remote_theme: raviriley/agency-jekyll-theme
 
 url    : https://github.com/drdevnayar/CrossCuresv2/
-# baseurl: "/master" 
+baseurl: "https://github.com/drdevnayar/CrossCuresv2/" 
 
 title      : CrossCures
 email      : your-email@example.com #this is also the email contact forms will go to
