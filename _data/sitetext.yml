@@ -100,7 +100,7 @@ en: &DEFAULT_EN
     people:
       - name: "Kapil Dev Nayar"
         role: "Co-Founder / Early Test Subject"
-        image: assets/img/team/kapil1.png
+        image: assets/img/team/CrossCures Kapil.jpg
         social:
           - url: https://twitter.com/dr_nayar_98
             icon: fab fa-twitter
@@ -108,7 +108,7 @@ en: &DEFAULT_EN
             icon: fab fa-linkedin-in
       - name: "Shaurjya Mandal"
         role: "Co-Founder / Womanizer"
-        image: assets/img/team/shaurjya2.jpg
+        image: assets/img/team/CrossCures Shaurjya.jpg
         social:
           - url: https://twitter.com
             icon: fab fa-twitter
