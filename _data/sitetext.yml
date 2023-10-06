@@ -57,7 +57,7 @@ en: &DEFAULT_EN
       - title: "Testing at Mass General"
         year: "June 2023"
         desc: "As co-founders, we were invited to the Movement Disorder Laboratory at Mass General to evaluate and reiterate our algorithm using data from real patients. After two months of continuous failures, novel innovations and rapid prototyping, we successfully achieved significant improvements in our algorithm."
-        image: assets/img/timeline/3.jpg
+        image: assets/img/timeline/CrossCures Timeline 3.jpg
         alt: image alt text
       - title: "CrossCures Is Born"
         year: "August 2023"
