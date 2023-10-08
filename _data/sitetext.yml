@@ -19,7 +19,7 @@ en: &DEFAULT_EN
   about:
     title: "Who are we ?"
     text: "Our Story"
-    body: "Movement disorders are diseases that affect the way your muscles behave, sometimes causing them to contract sporadically. This is usually a cause of huge cosmetic and phsycial discomfort for the patient who then seeks out help from a physician. However due to the subjective and time consuming nature of neurological assessments and grading, they are rarely followed and not much is done to docuemnt the exact extent of the patient's troubles. The journey to tackle these issues began when We initially met during a hackathon and realized our shared passion for addressing these issues. Our approach involved utilizing pose determination algorithms, but the initial results yielded poor accuracy. This marked the beginning of our journey, during which we dedicated two months to making and improving an AI-algorithm. Our efforts bore fruit, as our project ultimately earned us first place in the Hack For XDP 2022 hackathon. We focused on using our expertise to build a bespoke AI algorithm tailored specifically to our needs. To fine-tune our algorithm, we connected with leading neurologists from institutes such as Mass General, UPMC and Mayo Clinic. This algorithm uses a radically different approach that had never previously been explored. "
+    body: "Movement disorders are diseases that affect the way your muscles behave, sometimes causing them to contract sporadically. This is usually a cause of huge cosmetic and phsycial discomfort for the patient who then seeks out help from a physician. However due to the subjective and time consuming nature of neurological assessments and grading, they are rarely followed and not much is done to docuemnt the exact extent of the patient's troubles. The journey to tackle these issues began when We initially met during a hackathon and realized our shared passion for addressing them. Our efforts bore fruit, as our project ultimately earned us first place in the Hack For XDP 2022 hackathon. To fine-tune our algorithm, we connected with leading neurologists from institutes such as Mass General, UPMC and Mayo Clinic. This algorithm uses a radically different approach that had never previously been explored as it is the first algorithm in the world to effectively convert movement into understandable data"
     section: about
     
   services:
@@ -31,10 +31,10 @@ en: &DEFAULT_EN
         desc: "The patient takes a video, at the clinic during assessment or at home after the treatments effects kick in."
         icon: fas fa-video
       - title: "Analytics Assessment"
-        desc: "Our platform runs a custom trained novel AI-algorithm and analyses the video, keeping an archive of previous runs. This converts the video into thousands of data points which effectively 'encode' the video "
+        desc: "Our platform runs a custom trained novel AI-algorithm and analyses the video, keeping an archive of previous runs. This converts the video into thousands of data points which effectively 'captures' the movements diaplyed in the video. This is similar to how an MRI or CT scan turns anatomical information into computerized data, whereas our algorithm turns locomotory infomration into computerized data"
         icon: fas fa-chart-bar
       - title: "Outcomes"
-        desc: "Our interface displays relevant grading scales like TWSTRS2, UPDRS and BFM along with a grading history. This does all the heavy lifitng a clinican has to do, but without subjectivity and while enabling remote monitoring"
+        desc: "Our algorithm automatically grades the patient, on already validated grading scales like TWSTRS2, UPDRS and BFM along with a grading history. This does all the heavy lifitng a clinican has to do, but without the element of subjectivity"
         icon: fas fa-project-diagram
 
   portfolio:
