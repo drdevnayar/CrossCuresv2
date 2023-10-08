@@ -22,13 +22,13 @@ en: &DEFAULT_EN
     section: services
     list:
       - title: "Video Processing"
-        desc: "The patient takes a video, at the clinic during assessment or at home after treatment effets kick in."
+        desc: "The patient takes a video, at the clinic during assessment or at home after the treatments effects kick in."
         icon: fas fa-video
       - title: "Analytics Assessment"
-        desc: "Our platform runs a custom trained novel AI-algorithm and analyses the video, keeping an archive of previous runs"
+        desc: "Our platform runs a custom trained novel AI-algorithm and analyses the video, keeping an archive of previous runs. This converts the video into thousands of data points which effectively 'encode' the video "
         icon: fas fa-chart-bar
       - title: "Outcomes"
-        desc: "Our interface displays relevant grading scales along with a grading history, doing all the heavy lifitng a clinican has to do and enabling remote monitoring"
+        desc: "Our interface displays relevant grading scales like TWSTRS2, UPDRS and BFM along with a grading history. This does all the heavy lifitng a clinican has to do, but without subjectivity and while enabling remote monitoring"
         icon: fas fa-project-diagram
 
   portfolio:
