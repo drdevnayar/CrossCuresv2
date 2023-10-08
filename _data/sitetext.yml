@@ -22,17 +22,17 @@ en: &DEFAULT_EN
     section: services
     list:
       - title: "Video Processing"
-        desc: "We convert video files into 1:1 3-D models using our custom-built novel AI algorithm."
+        desc: "The patient takes a video, at the clinic during assessment or at home after treatment effets kick in."
         icon: fas fa-video
       - title: "Analytics Assessment"
-        desc: "We pull data from our 3-D models and calculate the grading using various scales such as TWSTRS-2, UPDRS and BFM. Additionally, we graph the associated movements in 3-D spacetime with relevant timestamps."
+        desc: "Our platform runs a custom trained novel AI-algorithm and analyses the video, keeping an archive of previous runs"
         icon: fas fa-chart-bar
-      - title: "Outcome Prediction"
-        desc: "We further apply algorithms which can quantify the probabilities of outcomes post-treatment."
+      - title: "Outcomes"
+        desc: "Our interface displays relevant grading scales along with a grading history, doing all the heavy lifitng a clinican has to do and enabling remote monitoring"
         icon: fas fa-project-diagram
 
   portfolio:
-    title: "Use Cases"
+    title: "Updates"
     text: "Our Ongoing Projects"
     section: portfolio
     closebutton: "Close Project"
@@ -71,7 +71,7 @@ en: &DEFAULT_EN
   about:
     title: "About Us"
     text: "Our Story"
-    body: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported."
+    body: "We initially met during a hackathon and realized our shared passion for addressing the issue of subjectivity in neurological examinations. Our approach involved utilizing open-source pose determination algorithms, but the initial results yielded poor accuracy. This marked the beginning of our journey, during which we dedicated two months to enhancing the existing freely available pose estimation algorithms. Our efforts paid off, as our project ultimately earned us first place in the Hack For XDP 2022 hackathon. After several iterations, our project's accuracy remained persistently low. As a result, we pivoted away from the established concepts underpinning current pose-detection algorithms and redid the entire project from scratch. We focused on using our expertise to build a bespoke AI algorithm tailored specifically to our needs. To fine-tune our algorithm, we connected with leading neurologists from institutes such as Mass General, UPMC and Mayo Clinic. We finally came up with the first iteration of our custom algorithm, which we named after our winning Hackathon project: XDP-GAIT. This algorithm used a radically different approach that had never previously been explored. "
     section: about
 
   clients:
