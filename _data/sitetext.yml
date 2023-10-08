@@ -16,6 +16,12 @@ en: &DEFAULT_EN
     button: Projects
     buttonlink: "#portfolio"
 
+  about:
+    title: "About Us"
+    text: "Our Story"
+    body: "We initially met during a hackathon and realized our shared passion for addressing the issue of subjectivity in neurological examinations. Our approach involved utilizing open-source pose determination algorithms, but the initial results yielded poor accuracy. This marked the beginning of our journey, during which we dedicated two months to enhancing the existing freely available pose estimation algorithms. Our efforts paid off, as our project ultimately earned us first place in the Hack For XDP 2022 hackathon. After several iterations, our project's accuracy remained persistently low. As a result, we pivoted away from the established concepts underpinning current pose-detection algorithms and redid the entire project from scratch. We focused on using our expertise to build a bespoke AI algorithm tailored specifically to our needs. To fine-tune our algorithm, we connected with leading neurologists from institutes such as Mass General, UPMC and Mayo Clinic. We finally came up with the first iteration of our custom algorithm, which we named after our winning Hackathon project: XDP-GAIT. This algorithm used a radically different approach that had never previously been explored. "
+    section: about
+    
   services:
     title: "What We Do"
     text: "The Process"
@@ -67,12 +73,6 @@ en: &DEFAULT_EN
         # you can enforce the alignment
         align: right
     end: "Be Part <br> of <br> Our Story!"
-
-  about:
-    title: "About Us"
-    text: "Our Story"
-    body: "We initially met during a hackathon and realized our shared passion for addressing the issue of subjectivity in neurological examinations. Our approach involved utilizing open-source pose determination algorithms, but the initial results yielded poor accuracy. This marked the beginning of our journey, during which we dedicated two months to enhancing the existing freely available pose estimation algorithms. Our efforts paid off, as our project ultimately earned us first place in the Hack For XDP 2022 hackathon. After several iterations, our project's accuracy remained persistently low. As a result, we pivoted away from the established concepts underpinning current pose-detection algorithms and redid the entire project from scratch. We focused on using our expertise to build a bespoke AI algorithm tailored specifically to our needs. To fine-tune our algorithm, we connected with leading neurologists from institutes such as Mass General, UPMC and Mayo Clinic. We finally came up with the first iteration of our custom algorithm, which we named after our winning Hackathon project: XDP-GAIT. This algorithm used a radically different approach that had never previously been explored. "
-    section: about
 
   clients:
     section: clients
