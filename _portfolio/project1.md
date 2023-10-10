@@ -1,7 +1,7 @@
 ---
 title: CrossCures XC v1.1
 subtitle: Tool/Product
-image: assets/img/portfolio/CrossCures Project 1.jpg
+image: assets/img/7IsD.gif
 alt: CrossCures XC v1.1
 
 caption:
