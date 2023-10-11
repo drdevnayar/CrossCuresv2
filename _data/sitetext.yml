@@ -11,30 +11,29 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: Welcome to the Future of Healthcare
+    title: Welcome to the Future of Kinematics
     text: CrossCures
     button: Projects
     buttonlink: "#portfolio"
 
   about:
-    title: "Who are we ?"
-    text: "Our Story"
-    body: "Movement disorders are diseases that affect the way your muscles behave, sometimes causing them to contract sporadically. This is usually a cause of huge cosmetic and phsycial discomfort for the patient who then seeks out help from a physician. However due to the subjective and time consuming nature of neurological assessments and grading, they are rarely followed and not much is done to docuemnt the exact extent of the patient's troubles. The journey to tackle these issues began when We initially met during a hackathon and realized our shared passion for addressing them. Our efforts bore fruit, as our project ultimately earned us first place in the Hack For XDP 2022 hackathon. To fine-tune our algorithm, we connected with leading neurologists from institutes such as Mass General, UPMC and Mayo Clinic. This algorithm uses a radically different approach that had never previously been explored as it is the first AI-algorithm in the world to accurately convert movement into understandable, analyzable data"
+    title: "What is crosscures ?"
+    body: "At CrossCures, we are building the world's first end-to-end AI solution to imitate human clinical assessment for objective diagnosis and monitoring of neurological disorders."
     section: about
     
   services:
-    title: "What We Do"
-    text: "The Process"
+    title: "Our pillars"
+    text: ""
     section: services
     list:
-      - title: "Video Processing"
-        desc: "The patient takes a video, at the clinic during assessment or at home after the treatments effects kick in."
+      - title: "Doctor-in-the-loop ML models"
+        desc: "Continuous iteration and improvement so that our algorithmic grading matches yours."
         icon: fas fa-video
-      - title: "Analytics Assessment"
-        desc: "Our platform converts the video into thousands of data points, longitudnally, which effectively 'captures' the movements displyed by the patient. This is similar to how an MRI or CT scan turns anatomical information into computerized data, whereas our algorithm turns locomotory information into computerized data"
+      - title: "Multimodal clinical data assessment"
+        desc: "We integratte multiple clinical paramters into our models"
         icon: fas fa-chart-bar
-      - title: "Outcomes"
-        desc: "Our algorithm automatically grades the patient, on already validated grading scales like TWSTRS2, UPDRS and BFM along with a grading history. This does all the heavy lifitng a clinican has to do, but without the element of subjectivity"
+      - title: "Outcome explainability"
+        desc: "We offer the ability to see exactly what the algorithm saw before assigning a grade"
         icon: fas fa-project-diagram
 
   portfolio:
