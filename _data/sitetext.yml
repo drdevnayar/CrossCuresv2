@@ -17,12 +17,12 @@ en: &DEFAULT_EN
     buttonlink: "#portfolio"
 
   about:
-    title: "What is crosscures ?"
+    title: "What is CrossCures?"
     body: "At CrossCures, we are building the world's first end-to-end AI solution to imitate human clinical assessment for objective diagnosis and monitoring of neurological disorders."
     section: about
     
   services:
-    title: "Our pillars"
+    title: "Our Pillars"
     text: ""
     section: services
     list:
@@ -98,7 +98,7 @@ en: &DEFAULT_EN
     section: team
     people:
       - name: "Kapil Dev Nayar"
-        role: "Co-Founder / Early Test Subject"
+        role: "Co-Founder"
         image: assets/img/team/CrossCures Team 1.jpg
         social:
           - url: https://twitter.com/dr_nayar_98
@@ -108,7 +108,7 @@ en: &DEFAULT_EN
           - url: https://www.linkedin.com/in/kapil-dev-nayar/
             icon: fab fa-linkedin-in
       - name: "Shaurjya Mandal"
-        role: "Co-Founder / Womanizer"
+        role: "Co-Founder"
         image: assets/img/team/CrossCures Team 2.jpg
         social:
 #          - url: https://twitter.com
