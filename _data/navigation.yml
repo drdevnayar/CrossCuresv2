@@ -15,7 +15,7 @@ en: &DEFAULT_EN
       section: about
     - title: "THE PROCESS"
       section: services1
-    - title: "PROJECTS"
+    - title: "UPDATES"
       section: portfolio
     - title: "TIMELINE"
       section: timeline
