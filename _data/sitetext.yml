@@ -36,7 +36,7 @@ en: &DEFAULT_EN
         desc: "Our models tell the clinicians what they feel and why so."
         icon: fas fa-project-diagram
         
- services1:
+  services1:
     title: "Our Pillars"
     text: ""
     section: services1
