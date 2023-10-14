@@ -11,7 +11,7 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: Welcome to the world of GenAI in Healthcare
+    title: Welcome to the World of GenAI in Healthcare
     text: CrossCures
     button: Projects
     buttonlink: "#portfolio"
@@ -30,25 +30,25 @@ en: &DEFAULT_EN
         desc: "Models trained via a real-time feedback mechanism from expert neurologists."
     
       - title: "Multimodal clinical data assessment"
-        desc: "Ability of our models to connect across a plethora of modalities (videos, text, voice, biosignal, etc)."
+        desc: "Ability of our models to connect across a plethora of modalities (videos, text, voice, biosignal, etc.)"
       
       - title: "Outcome explainability"
-        desc: "Our models tell the clinicians what they feel and why so."
+        desc: "Our models tell the clinicians what they perceive and why so."
       
         
   services1:
-    title: "The process"
-    text: "how it works"
+    title: "The Process"
+    text: "How It Works"
     section: services1
     list:
       - title: "Video Processing"
-        desc: "The patient takes a video, at the clinic during assessment or at home after the treatment's effects kick in."
+        desc: "The patient takes a video at the clinic during assessment or at home after the treatment's effects kick in."
         icon: fas fa-video
-      - title: "Analytics assessment"
-        desc: "Our platform achieves automated grading of the movement disorders by learning a stepwise approach for the respective tasks. Doctor-in-the-loop modelling is done to personalise the algorithm"
+      - title: "Analytics Assessment"
+        desc: "Our platform achieves automated grading of the movement disorders by learning a stepwise approach for the respective tasks. Doctor-in-the-loop modelling is done to personalise the algorithm."
         icon: fas fa-chart-bar
       - title: "Outcomes"
-        desc: "Our algorithm automatically grades the patient, on already validated grading scales along with a grading history. This does all the heavy lifitng a clinican has to do, but without the element of subjectivity"
+        desc: "Our algorithm automatically grades the patient on already validated grading scales, along with a grading history. This does all the heavy lifitng a clinican has to do, but without the element of subjectivity."
         icon: fas fa-project-diagram
         
   portfolio:
