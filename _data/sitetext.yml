@@ -32,7 +32,7 @@ en: &DEFAULT_EN
       - title: "Multimodal clinical data assessment"
         desc: "Ability of our models to connect across a plethora of modalities (videos, text, voice, biosignal, etc.)"
       
-      - title: "Outcome explainability" <br>
+      - title: "Outcome explainability <br>"
         desc: "Our models tell the clinicians what they perceive and why so."
       
         
@@ -74,9 +74,9 @@ en: &DEFAULT_EN
         desc: "We focused on using our expertise to build a bespoke AI algorithm tailored specifically to approach the procedural format of clinical decision making. To introduce the doctor-in-the-loop training paradigm, we connected with leading neurologists from institutes such as Mass General, UPMC and Mayo Clinic."
         image: assets/img/timeline/CrossCures Timeline 2.jpg
         alt:
-      - title: "Testing at Mass General"
+      - title: "Testing at Mass General Hospital"
         year: "June 2023"
-        desc: "As co-founders, we were invited to the Movement Disorder Laboratory at Mass General to evaluate and reiterate our algorithm using data from real patients. After two months of continuous failures, novel innovations and rapid prototyping, we successfully achieved significant improvements in our algorithm."
+        desc: "As co-founders, we were invited to the Movement Disorder Laboratory at Mass General Hospital to evaluate and reiterate our algorithm using data from real patients. After two months of continuous failures, novel innovations and rapid prototyping, we successfully achieved significant improvements in our algorithm."
         image: assets/img/timeline/CrossCures Timeline 3.jpg
         alt:
       - title: "CrossCures Is Born"
