@@ -88,11 +88,11 @@ en: &DEFAULT_EN
         align: right
     end: "Be Part <br> of <br> Our Story!"
 
-  clients:
-    section: clients
-    max-height: 100px
-    horizontal-scrolling: "" #"yes/no"
-    list:
+  #clients:
+   # section: clients
+    #max-height: 100px
+    #horizontal-scrolling: "" #"yes/no"
+   # list:
       - title: "envato"
         url: https://github.com/raviriley/agency-jekyll-theme
         logo: assets/img/clients/envato.jpg
