@@ -9,7 +9,7 @@ caption:
   subtitle: Ongoing Research
   thumbnail: assets/img/portfolio/CrossCures Project 2 TN.jpg
 ---
-Study at Mass General, conducted on 41 real patients, for clinically validated scales - Currently submitted and under review. 
+Study at Mass General Hospital, conducted on 41 real patients, for clinically validated scales - Currently submitted and under review. 
 
 
 {:.list-inline}
