@@ -9,10 +9,11 @@ caption:
   subtitle: Ongoing Research
   thumbnail: assets/img/portfolio/CrossCures Project 2 TN.jpg
 ---
-Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!
+Tested on 41 real patients, study in mass general for clinically validated scales.- currently submitted and under review 
+
 
 {:.list-inline}
-- Date: September 2023 
+- Date: June-September 2023 
 - Client: 
 - Category: Research
 
