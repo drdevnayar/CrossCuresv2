@@ -28,27 +28,27 @@ en: &DEFAULT_EN
     list:
       - title: "Doctor-in-the-loop ML models"
         desc: "Models trained via a real-time feedback mechanism from expert neurologists."
-        icon: fas fa-video
+        icon: fas fa-objects-column
       - title: "Multimodal clinical data assessment"
         desc: "Ability of our models to connect across a plethora of modalities (videos, text, voice, biosignal, etc)."
-        icon: fas fa-chart-bar
+        icon: fas fa-objects-column
       - title: "Outcome explainability"
         desc: "Our models tell the clinicians what they feel and why so."
-        icon: fas fa-project-diagram
+        icon: fas fa-objects-column
         
   services1:
-    title: "Our Pillars"
-    text: ""
+    title: "The process"
+    text: "how it works"
     section: services1
     list:
-      - title: "Doctor-in-the-loop ML models"
-        desc: "Models trained via a real-time feedback mechanism from expert neurologists."
+      - title: "Video Processing"
+        desc: "The patient takes a video, at the clinic during assessment or at home after the treatment's effects kick in."
         icon: fas fa-video
-      - title: "Multimodal clinical data assessment"
-        desc: "Ability of our models to connect across a plethora of modalities (videos, text, voice, biosignal, etc)."
+      - title: "Analytics assessment"
+        desc: "Our platform achieves automated grading of the movement disorders by learning a stepwise approach for the respective tasks. Doctor-in-the-loop modelling is done to personalise the algorithm"
         icon: fas fa-chart-bar
-      - title: "Outcome explainability"
-        desc: "Our models tell the clinicians what they feel and why so."
+      - title: "Outcomes"
+        desc: "Our algorithm automatically grades the patient, on already validated grading scales along with a grading history. This does all the heavy lifitng a clinican has to do, but without the element of subjectivity"
         icon: fas fa-project-diagram
         
   portfolio:
