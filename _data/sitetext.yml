@@ -32,8 +32,8 @@ en: &DEFAULT_EN
       - title: "Multimodal clinical data assessment"
         desc: "Ability of our models to connect across a plethora of modalities (videos, text, voice, biosignal, etc.)."
       
-      - title: "Outcome explainability <br>"
-        desc: "Our models tell the clinicians what they perceive and why so."
+      - title: "Outcome <br> explainability"
+        desc: "Our models tell the clinicians exactly what they perceive and why so."
       
         
   services1:
