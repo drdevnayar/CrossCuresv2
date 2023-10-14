@@ -35,7 +35,22 @@ en: &DEFAULT_EN
       - title: "Outcome explainability"
         desc: "Our models tell the clinicians what they feel and why so."
         icon: fas fa-project-diagram
-
+        
+ services1:
+    title: "Our Pillars"
+    text: ""
+    section: services
+    list:
+      - title: "Doctor-in-the-loop ML models"
+        desc: "Models trained via a real-time feedback mechanism from expert neurologists."
+        icon: fas fa-video
+      - title: "Multimodal clinical data assessment"
+        desc: "Ability of our models to connect across a plethora of modalities (videos, text, voice, biosignal, etc)."
+        icon: fas fa-chart-bar
+      - title: "Outcome explainability"
+        desc: "Our models tell the clinicians what they feel and why so."
+        icon: fas fa-project-diagram
+        
   portfolio:
     title: "Updates"
     text: "Our Ongoing Projects"
