@@ -39,7 +39,7 @@ en: &DEFAULT_EN
  services1:
     title: "Our Pillars"
     text: ""
-    section: services
+    section: services1
     list:
       - title: "Doctor-in-the-loop ML models"
         desc: "Models trained via a real-time feedback mechanism from expert neurologists."
