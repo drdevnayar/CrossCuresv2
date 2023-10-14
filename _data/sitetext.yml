@@ -30,7 +30,7 @@ en: &DEFAULT_EN
         desc: "Models trained via a real-time feedback mechanism from expert neurologists."
     
       - title: "Multimodal clinical data assessment"
-        desc: "Ability of our models to connect across a plethora of modalities (videos, text, voice, biosignal, etc.)"
+        desc: "Ability of our models to connect across a plethora of modalities (videos, text, voice, biosignal, etc.)."
       
       - title: "Outcome explainability <br>"
         desc: "Our models tell the clinicians what they perceive and why so."
