@@ -11,14 +11,14 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: Welcome to the Future of Kinematics
+    title: Welcome to the world of GenAI in Healthcare
     text: CrossCures
     button: Projects
     buttonlink: "#portfolio"
 
   about:
     title: "What is CrossCures?"
-    body: "At CrossCures, we are building the world's first end-to-end AI solution to imitate human clinical assessment for objective diagnosis and monitoring of neurological disorders."
+    body: "At CrossCures, we are building the world's first end-to-end AI solution for objective diagnosis and monitoring of neurological disorders."
     section: about
     
   services:
@@ -27,13 +27,13 @@ en: &DEFAULT_EN
     section: services
     list:
       - title: "Doctor-in-the-loop ML models"
-        desc: "Continuous iteration and improvement so that our algorithmic grading matches yours."
+        desc: "Models trained via a real-time feedback mechanism from expert neurologists."
         icon: fas fa-video
       - title: "Multimodal clinical data assessment"
-        desc: "We integratte multiple clinical paramters into our models"
+        desc: "Ability of our models to connect across a plethora of modalities (videos, text, voice, biosignal, etc)."
         icon: fas fa-chart-bar
       - title: "Outcome explainability"
-        desc: "We offer the ability to see exactly what the algorithm saw before assigning a grade"
+        desc: "Our models tell the clinicians what they feel and why so."
         icon: fas fa-project-diagram
 
   portfolio:
