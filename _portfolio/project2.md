@@ -14,6 +14,5 @@ Tested on 41 real patients, study in mass general for clinically validated scale
 
 {:.list-inline}
 - Date: June-September 2023 
-- Client: 
 - Category: Research
 
