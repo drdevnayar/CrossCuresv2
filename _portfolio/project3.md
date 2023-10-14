@@ -1,13 +1,13 @@
 ---
 title: Project Name
 subtitle: Lorem ipsum dolor sit amet consectetur.
-image: assets/img/portfolio/CrossCures Project 3.jpg
+image: assets/img/portfolio/CrossCures Project.jpg
 alt: 
 
 caption:
   title: Finish
   subtitle: Identity
-  thumbnail: assets/img/portfolio/CrossCures Project 3 TN.jpg
+  thumbnail: assets/img/portfolio/CrossCures Project TN.jpg
 ---
 Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!
 
