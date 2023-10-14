@@ -13,6 +13,6 @@ Study at Mass General, conducted on 41 real patients, for clinically validated s
 
 
 {:.list-inline}
-- Date: June-September 2023 
+- Date: June - September 2023
 - Category: Research
 
