@@ -18,7 +18,7 @@ url    : https://www.crosscures.com/
 baseurl: "https://www.crosscures.com" 
 
 title      : CrossCures
-email      : kapildevnayar98@gmail.com 
+#email      :
 description: "The Future of Healthcare"
 author     : Kapil Dev Nayar
 logo:     
