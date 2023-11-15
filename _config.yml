@@ -28,7 +28,7 @@ logo:
 locale: "en-US" # See available languages in _data/sitetext.yml
 
 analytics:
-  google: UA-139598782-1
+  google: "UA-139598782-1"
    
 
 
